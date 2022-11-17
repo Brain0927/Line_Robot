@@ -1,6 +1,6 @@
 # 技術文章
 # https://developers.line.biz/en/docs/messaging-api/sending-messages/#methods-of-sending-message
-
+#brain
 # 一定要改的地方～～
 # 請打開 ine.xlsx 中的  setup 改 auth_token 	接收人的id
 # auth_token="2bSr7EUf1Ip1OVYBgh7HgCpdrPj/KyphlQQpQKkyUN3NVuZlQ36dp2b3O6imlhLk2LunCyORmlfQHb9tNXaul716CTlDNSD78PPUaL3ZM51a5yvLf6oWBQ4zyeBcAgD8Agc478HreI5bD5ArdslHrwdB04t89/1O/w1cDnyilFU="
